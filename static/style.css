@@ -17,7 +17,7 @@ header {
   align-items: center;
 }
 
-section {
+main {
   max-width: min(50em, 90vw);
 }
 

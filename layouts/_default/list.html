@@ -1,10 +1,11 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
+<h2>Category: {{ .Title }}</h2>
 {{ range .Pages.ByPublishDate.Reverse }}
-<p>
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-</p>
-{{ end }}
-
-{{ end }}
+<ul>
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ partial "date.html" . }}
+  </li>
+</ul>
+{{ end }} {{ end }}

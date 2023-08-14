@@ -139,7 +139,7 @@ window.onload = function () {
 
   function render() {
     canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight * 0.8;
+    canvas.height = window.innerHeight * 0.2;
 
     gl.viewport(0, 0, gl.canvas.width, gl.canvas.height);
     gl.clearColor(0, 0, 0, 1);
