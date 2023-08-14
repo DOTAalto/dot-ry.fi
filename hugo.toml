@@ -1,0 +1,22 @@
+baseURL = "https://dot-ry.fi/"
+languageCode = "en-us"
+title = "DOT ry"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "News"
+    pre = "edit"
+    url = "/news/"
+    weight = 2
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  homeText = "Hello"
