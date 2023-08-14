@@ -14,10 +14,20 @@ title = "DOT ry"
     url = "/news/"
     weight = 2
   [[menu.main]]
+    name = "Join"
+    pre = "edit"
+    url = "/join/"
+    weight = 3
+  [[menu.main]]
     name = "Graffathon"
     pre = "edit"
     url = "https://graffathon.org"
-    weight = 3
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    pre = "edit"
+    url = "/contact"
+    weight = 5
 
 [taxonomies]
   tag = "tags"
