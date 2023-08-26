@@ -4,7 +4,7 @@
  - [ ] [Multilingual support](https://gohugo.io/content-management/multilingual/)
  - [ ] Membership form
  - [ ] Event calendar
- - [ ] GitHub Actions workflow
+ - [x] GitHub Actions workflow
 
 ## Development
 ### Prerequisites
@@ -50,7 +50,7 @@ Just add a Markdown or HTML file to the `content` directory. It needs to have th
 The page will be available at `/filename`.
 
 ### Navigation
-Navigation bar items are defined in the main configuration file `hugo.toml`.
+Navigation bar items are defined in the main configuration file `config.toml`.
 
 ### Static files
 Files such as CSS, JavaScript and images are stored in the `static` directory.
@@ -59,3 +59,8 @@ Example of using these files in templates:
 
     {{ $dotlogo := "dot_logo_white.png" | relURL }}
     <img src="{{ $dotlogo }}" alt="DOT ry logo" />
+
+### Deployment
+The site is hosted on GitHub Pages. There is a Github Actions workflow that updates the
+site when there are new commits. After making modifications, just push to GitHub and the
+site will update.
