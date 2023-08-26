@@ -1,5 +1,5 @@
 ---
-title: "Demo Evening 16.9.2023"
+title: "Demo evening 16.9.2023"
 date: 2023-08-26T19:22:46+03:00
 draft: false
 tags: ["events"]
