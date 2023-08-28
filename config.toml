@@ -13,7 +13,7 @@ title = "DOT ry"
     weight = 2
   [[menu.main]]
     name = "Join"
-    pageRef = "join"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLSe_albzmj_VINAI47fbUw44LygX9pTxfOS4s22aDQQkIxuYAw/viewform"
     weight = 3
   [[menu.main]]
     name = "Graffathon"
