@@ -16,7 +16,7 @@ The event also serves as a hackathon, you can try to make your own demo during
 the event and we will have a small demo compo in the evening.
 
 You are not required to participate in the Hackathon, you can just come and watch demos,
-hang out and get to know our club! 
+hang out and get to know our club!
 
 ### Timetable
 - 10:00 start, people can make demos (no tables, only sofas)
@@ -27,4 +27,7 @@ hang out and get to know our club!
 
 ### Location
 OUBS Studio
-Jämeräntaival 1
+
+Jämeräntaival 1, 02150 Espoo
+
+![OUBS Studio Map](/images/oubs-studio-map.jpg)
