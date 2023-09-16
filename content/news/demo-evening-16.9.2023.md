@@ -31,3 +31,8 @@ OUBS Studio
 Jämeräntaival 1, 02150 Espoo
 
 ![OUBS Studio Map](/images/oubs-studio-map.jpg)
+
+### Getting started materials
+- Turtle Graphics framework – super beginner friendly. The material is in Finnish, but the commands are in English. This framework includes turtle cloning, so also interesting effects like fractals are possible https://turtle.bloat.app
+- Processing + Rocket – the same one we used in Graffathon. https://www.graffathon.fi/2023/getting-started.html
+- WebGL shader boilerplate – intermediate level. https://github.com/felixbade/webgl-shader-boilerplate
