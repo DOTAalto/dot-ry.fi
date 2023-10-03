@@ -1,10 +1,10 @@
 # dot-ry.fi
 
 ## TODO
- - [ ] [Multilingual support](https://gohugo.io/content-management/multilingual/)
- - [ ] Membership form
- - [ ] Event calendar
  - [x] GitHub Actions workflow
+ - [x] Membership form
+ - [x] Event calendar
+ - [ ] [Multilingual support](https://gohugo.io/content-management/multilingual/)
 
 ## Development
 ### Prerequisites
@@ -26,7 +26,7 @@ The site can be edited easily by modifying the HTML and Markdown template files.
 * News feed items are located in `content/news`
 
 ### Adding new news items
-Either run `hugo new news/example.md` or just add the file under `content/news` manually. Both Markdown and HTML are okay. 
+Either run `hugo new news/example.md` or just add the file under `content/news` manually. Both Markdown and HTML are okay.
 
 Items in the newsfeed should have the following header:
 
