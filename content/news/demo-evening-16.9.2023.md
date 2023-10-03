@@ -2,7 +2,7 @@
 title: "Demo evening 16.9.2023"
 date: 2023-08-26T19:22:46+03:00
 draft: false
-tags: ["events"]
+tags: []
 ---
 
 ### Welcome to DOT demo evening on Saturday 16.9.2023 at OUBS Studio!
