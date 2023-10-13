@@ -31,7 +31,7 @@ h4 {
   color: #333;
 }
 
-header > img {
+header>img {
   position: absolute;
   max-width: 90vw;
 }
@@ -72,4 +72,8 @@ nav {
 
 .nav-links a:hover {
   color: #a7a7a7;
+}
+
+img {
+  max-width: 100%;
 }
