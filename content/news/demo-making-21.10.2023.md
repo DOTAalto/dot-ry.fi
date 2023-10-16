@@ -9,7 +9,7 @@ tags: []
 
 ### Welcome to DOT demo-making day on Saturday 21.10.2023 at Aalto Design Factory
 
-This is continuation of the demo evenings started on 16.9. – this time, the theme is fantasy computers!
+Join us for another day of making and watching [demos](https://en.wikipedia.org/wiki/Demoscene)! This time, the theme is [fantasy consoles](https://en.wikipedia.org/wiki/Fantasy_video_game_console), which are artificially limited virtual computers aiming to make graphics and audio programming simple and fun. Check out the [TIC-80 example page](http://tic80.com/play?cat=5) to get an idea of what these computers are capable of.
 
 We are also visiting Ryoji Ikeda’s exhibition in Amos Rex at 18:00 on the Friday before – to maximize inspiration. This is completely optional but a highly recommended exhibition. See [the event page](/news/ikeda-20.10.2023/) for more info.
 
