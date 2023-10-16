@@ -37,7 +37,7 @@ header>img {
 }
 
 a {
-  color: #1a73e8;
+  color: hsl(210, 100%, 45%);
   text-decoration: none;
 }
 
@@ -76,4 +76,42 @@ nav {
 
 img {
   max-width: 100%;
+}
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: hsl(0, 0%, 10%);
+    color: #eee;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #ddd;
+  }
+
+  header {
+    background-color: #000000;
+  }
+
+  nav {
+    background-color: #000000;
+    color: #fff;
+  }
+
+  .nav-links a {
+    color: #fff;
+  }
+
+  .nav-links a:hover {
+    color: #a7a7a7;
+  }
+
+  /* normal links slightly lighter, hsl */
+  a {
+    color: hsl(210, 100%, 60%);
+  }
+
 }
