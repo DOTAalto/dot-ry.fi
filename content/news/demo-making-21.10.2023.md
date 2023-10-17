@@ -20,6 +20,8 @@ Anyone interested in computational art. Basic programming skills are recommended
 
 - [TIC-80](https://tic80.com) – recommended
     <details><summary>Some helpful links</summary>
+    - [Download TIC-80](https://github.com/nesbox/TIC-80/releases) - if you don't want to use the web version
+    - [Step-by-step introduction to TIC-80](https://github.com/nesbox/TIC-80/wiki/A-step-by-step-introduction-to-TIC-80,-Part-1---The-Default-Cart)
     - [TIC-80 documentation](https://github.com/nesbox/TIC-80/wiki)
     - [Lua reference](https://www.lua.org/manual/5.4/) if you're using lua (the default scripting language), especially the list of functions at the end
     - Advanced: To make 3D things, see the [ttri function](https://github.com/nesbox/TIC-80/wiki/ttri) and [this snippet](https://github.com/nesbox/TIC-80/wiki/Code-examples-and-snippets#ttri-xyz-rotation)
