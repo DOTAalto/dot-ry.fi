@@ -16,11 +16,21 @@ We are also visiting Ryoji Ikeda’s exhibition in Amos Rex at 18:00 on the Frid
 ### For who?
 Anyone interested in computational art. Basic programming skills are recommended, but you can also team up with someone and ask for parameters to explore. We are aiming to make our events as beginner friendly as possible, but as the theme *fantasy computers* is a bit more technical one, this event might not be the absolutely most approachable with a purely visual or musical background. However, in a sense we are all beginners, so if *fantasy computers* sounds like fun, you are very welcome to join us! :)
 
-### Platforms
+### Platforms, resources
+
 - [TIC-80](https://tic80.com) – recommended
+    - [Download TIC-80](https://github.com/nesbox/TIC-80/releases) - if you don't want to use the web version
+    - [Step-by-step introduction to TIC-80](https://github.com/nesbox/TIC-80/wiki/A-step-by-step-introduction-to-TIC-80,-Part-1---The-Default-Cart)
+    - [TIC-80 documentation](https://github.com/nesbox/TIC-80/wiki)
+    - [Lua reference](https://www.lua.org/manual/5.4/) if you're using lua (the default scripting language), especially the list of functions at the end
+    - Advanced: To make 3D things, see the [ttri function](https://github.com/nesbox/TIC-80/wiki/ttri) and [this snippet](https://github.com/nesbox/TIC-80/wiki/Code-examples-and-snippets#ttri-xyz-rotation)
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) – if you don’t mind the paywall
 - [WASM-4](https://wasm4.org/) – for web hipsters
-- [UXN+Varvava](https://100r.co/site/uxn.html) – if you are feeling hardcore.
+- [Uxn+Varvava](https://100r.co/site/uxn.html) – if you are feeling hardcore.
+    - [Compudanzas Uxn tutorial](https://compudanzas.net/uxn_tutorial.html) - This is intended to be completed in seven days, so it might be a bit tough to go through it in one day. We told you it's hardcore!
+    - [Uxntal on XXIIVV wiki](https://wiki.xxiivv.com/site/uxntal.html)
+    - [Varvara device reference](https://wiki.xxiivv.com/site/varvara.html) - drawing, audio, etc.
+    - [Uxntal opcode reference](https://wiki.xxiivv.com/site/uxntal_reference.html)
 
 If you have another similar platform in mind that you would like to make a demo with, feel free to ask us. However, our aim is to keep organizing fairly stream-lined.
 

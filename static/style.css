@@ -78,6 +78,10 @@ img {
   max-width: 100%;
 }
 
+details > summary {
+  cursor: pointer;
+}
+
 /* dark mode */
 @media (prefers-color-scheme: dark) {
   body {
