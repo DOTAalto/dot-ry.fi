@@ -76,6 +76,7 @@ Note that the organizers are only familiar with TIC-80 and Uxn (and not super fa
     -- desc: short description of your demo or a message you want to show on the big screen
     ```
     (this is for lua, ask us if you're unsure and using a different language)
+1. To hide the cursor, add `poke(0x7FC3F,1,1)` to the beginning of your `TIC()` function
 1. Save your demo by running `save yourdemo.tic` in the TIC-80 console
 1. Export the `.tic` file:
     - If you are using the **web version**: run `get yourdemo.tic` to download the `.tic` file
