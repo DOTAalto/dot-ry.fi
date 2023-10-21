@@ -19,7 +19,7 @@ Anyone interested in computational art. Basic programming skills are recommended
 ### Platforms, resources
 
 - [TIC-80](https://tic80.com) – recommended
-    - [Download TIC-80](https://github.com/nesbox/TIC-80/releases) - if you don't want to use the web version
+    - [Download TIC-80](https://github.com/nesbox/TIC-80/releases) – if you don't want to use the web version
     - [Step-by-step introduction to TIC-80](https://github.com/nesbox/TIC-80/wiki/A-step-by-step-introduction-to-TIC-80,-Part-1---The-Default-Cart)
     - [TIC-80 documentation](https://github.com/nesbox/TIC-80/wiki)
     - [Lua reference](https://www.lua.org/manual/5.4/) if you're using lua (the default scripting language), especially the list of functions at the end
@@ -27,9 +27,9 @@ Anyone interested in computational art. Basic programming skills are recommended
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) – if you don’t mind the paywall
 - [WASM-4](https://wasm4.org/) – for web hipsters
 - [Uxn+Varvava](https://100r.co/site/uxn.html) – if you are feeling hardcore.
-    - [Compudanzas Uxn tutorial](https://compudanzas.net/uxn_tutorial.html) - This is intended to be completed in seven days, so it might be a bit tough to go through it in one day. We told you it's hardcore!
+    - [Compudanzas Uxn tutorial](https://compudanzas.net/uxn_tutorial.html) – This is intended to be completed in seven days, so it might be a bit tough to go through it in one day. We told you it's hardcore!
     - [Uxntal on XXIIVV wiki](https://wiki.xxiivv.com/site/uxntal.html)
-    - [Varvara device reference](https://wiki.xxiivv.com/site/varvara.html) - drawing, audio, etc.
+    - [Varvara device reference](https://wiki.xxiivv.com/site/varvara.html) – drawing, audio, etc.
     - [Uxntal opcode reference](https://wiki.xxiivv.com/site/uxntal_reference.html)
 
 If you have another similar platform in mind that you would like to make a demo with, feel free to ask us. However, our aim is to keep organizing fairly stream-lined.
