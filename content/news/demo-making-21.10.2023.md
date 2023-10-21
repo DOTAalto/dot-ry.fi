@@ -85,7 +85,7 @@ Note that the organizers are only familiar with TIC-80 and Uxn (and not super fa
 
 ##### UXN
 
-Upload your `.com` (or `.tal`) file [here](https://party.dot-ry.fi)
+Upload your `.rom` (or `.tal`) file [here](https://party.dot-ry.fi)
 
 ##### Other platforms
 
